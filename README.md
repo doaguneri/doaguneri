@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi I am Doğa 👋
 
+#### Who Am I?
+- 🔭 I’m currently studying Industrial Engineering at METU
+- 📫 How to reach me: *dogaguneri2003@gmail.com* 
 <!--
 **doaguneri/doaguneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
